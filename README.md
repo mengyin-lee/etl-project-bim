@@ -4,8 +4,9 @@
 ## Date: 11/24/2020
 
 ## *Project Objective Summary*
-The objective of this project is to prepare data using ETL program and obtain information from the recently concluded 2020 Gubernatorial race.
-Our process started from data sets that were sourced from Kaggle in the form of CSV’s,transforming the dataset and upload the data into SQL database for further analysis.
+>
+>> The objective of this project is to prepare data using ETL program and obtain information from the recently concluded 2020 Gubernatorial race.
+>> Our process started from data sets that were sourced from Kaggle in the form of CSV’s,transforming the dataset and upload the data into SQL database for further analysis.
 
 ## *Extract/Data Utilized*
 Our team decided to get CSV files from Kaggle.com in two separate locations.   
