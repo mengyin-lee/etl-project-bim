@@ -1,0 +1,1026 @@
+stat_cd,state,county,current_votes,total_votes,percent
+AL,Delaware,Kent,85415,87025,100
+AL,Delaware,New Castle,280039,287633,100
+AL,Delaware,Sussex,127181,129352,100
+AL,Indiana,Adams,14154,14238,99
+AL,Indiana,Allen,168312,164793,95
+AL,Indiana,Bartholomew,36037,36389,95
+AL,Indiana,Benton,4100,3137,99
+AL,Indiana,Blackford,5283,5193,95
+AL,Indiana,Boone,38492,38500,99
+AL,Indiana,Brown,8957,8886,99
+AL,Indiana,Carroll,9510,9274,95
+AL,Indiana,Cass,15146,15247,95
+AL,Indiana,Clark,57426,58040,99
+AL,Indiana,Clay,12186,7777,99
+AL,Indiana,Clinton,12891,12961,99
+AL,Indiana,Crawford,4891,4928,95
+AL,Indiana,Daviess,11860,11971,99
+AL,Indiana,Dearborn,25295,26431,95
+AL,Indiana,Decatur,12260,12261,95
+AL,Indiana,DeKalb,19493,19656,99
+AL,Indiana,Delaware,47949,49722,95
+AL,Indiana,Dubois,21588,21805,99
+AL,Indiana,Elkhart,74425,73200,99
+AL,Indiana,Fayette,10054,10226,95
+AL,Indiana,Floyd,41589,41239,95
+AL,Indiana,Fountain,7952,8039,95
+AL,Indiana,Franklin,11822,12018,98
+AL,Indiana,Fulton,9123,9110,99
+AL,Indiana,Gibson,16130,16165,99
+AL,Indiana,Grant,27021,27160,95
+AL,Indiana,Greene,14694,14726,99
+AL,Indiana,Hamilton,193584,172767,95
+AL,Indiana,Hancock,42809,39869,95
+AL,Indiana,Harrison,20199,19914,95
+AL,Indiana,Hendricks,88122,88430,99
+AL,Indiana,Henry,21160,18244,99
+AL,Indiana,Howard,40547,40619,99
+AL,Indiana,Huntington,17731,17215,95
+AL,Indiana,Jackson,19136,18857,95
+AL,Indiana,Jasper,15371,14355,95
+AL,Indiana,Jay,8405,8466,99
+AL,Indiana,Jefferson,14537,14726,99
+AL,Indiana,Jennings,12153,12150,99
+AL,Indiana,Johnson,77274,74480,95
+AL,Indiana,Knox,15840,16027,99
+AL,Indiana,Kosciusko,35658,35846,99
+AL,Indiana,LaGrange,10575,10265,95
+AL,Indiana,Lake,217232,225350,95
+AL,Indiana,LaPorte,48605,48504,95
+AL,Indiana,Lawrence,20868,20551,95
+AL,Indiana,Madison,51806,57847,90
+AL,Indiana,Marion,390854,405857,95
+AL,Indiana,Marshall,19804,19925,95
+AL,Indiana,Martin,5118,5155,99
+AL,Indiana,Miami,14361,14467,95
+AL,Indiana,Monroe,62523,65468,95
+AL,Indiana,Montgomery,17184,16164,99
+AL,Indiana,Morgan,35947,36214,99
+AL,Indiana,Newton,6556,6218,95
+AL,Indiana,Noble,19088,19217,99
+AL,Indiana,Ohio,3186,3164,99
+AL,Indiana,Orange,8759,2682,99
+AL,Indiana,Owen,9846,9915,99
+AL,Indiana,Parke,6972,7020,99
+AL,Indiana,Perry,8648,8734,99
+AL,Indiana,Pike,6141,6413,95
+AL,Indiana,Porter,86524,85058,95
+AL,Indiana,Posey,13230,13264,99
+AL,Indiana,Pulaski,5768,5813,99
+AL,Indiana,Putnam,16520,15790,95
+AL,Indiana,Randolph,10994,11222,95
+AL,Indiana,Ripley,14207,13745,95
+AL,Indiana,Rush,7880,7741,95
+AL,Indiana,St. Joseph,114693,123259,93
+AL,Indiana,Scott,9970,9773,95
+AL,Indiana,Shelby,19867,20017,99
+AL,Indiana,Spencer,10659,10781,99
+AL,Indiana,Starke,10183,10309,99
+AL,Indiana,Steuben,16085,16175,99
+AL,Indiana,Sullivan,8916,9004,99
+AL,Indiana,Switzerland,4080,3969,95
+AL,Indiana,Tippecanoe,71215,70017,95
+AL,Indiana,Tipton,8076,8124,99
+AL,Indiana,Union,3459,3531,95
+AL,Indiana,Vanderburgh,77390,79897,95
+AL,Indiana,Vermillion,7386,7394,99
+AL,Indiana,Vigo,43335,43911,95
+AL,Indiana,Wabash,14511,14598,99
+AL,Indiana,Warren,4458,4217,95
+AL,Indiana,Warrick,33524,32605,95
+AL,Indiana,Washington,12073,12214,95
+AL,Indiana,Wayne,27620,27447,95
+AL,Indiana,Wells,14050,14080,99
+AL,Indiana,White,11138,10787,95
+AL,Indiana,Whitley,17451,17216,95
+AL,Missouri,Adair,10292,10337,99
+AL,Missouri,Andrew,9733,9774,99
+AL,Missouri,Atchison,2770,2770,99
+AL,Missouri,Audrain,10603,10660,99
+AL,Missouri,Barry,15527,15301,95
+AL,Missouri,Barton,6032,6077,99
+AL,Missouri,Bates,8356,8414,95
+AL,Missouri,Benton,10427,10047,95
+AL,Missouri,Bollinger,5943,5981,99
+AL,Missouri,Boone,90592,92255,95
+AL,Missouri,Buchanan,36394,38486,95
+AL,Missouri,Butler,18000,18082,95
+AL,Missouri,Caldwell,4695,4517,95
+AL,Missouri,Callaway,21096,21096,99
+AL,Missouri,Camden,24692,24774,99
+AL,Missouri,Cape Girardeau,40106,40742,95
+AL,Missouri,Carroll,4498,4569,95
+AL,Missouri,Carter,2861,2906,98
+AL,Missouri,Cass,57102,57524,99
+AL,Missouri,Cedar,7025,6588,95
+AL,Missouri,Chariton,4071,4074,99
+AL,Missouri,Christian,46642,44823,95
+AL,Missouri,Clark,3372,3372,99
+AL,Missouri,Clay,125978,126618,99
+AL,Missouri,Clinton,10812,10695,95
+AL,Missouri,Cole,39546,41111,95
+AL,Missouri,Cooper,8666,8710,99
+AL,Missouri,Crawford,10932,10393,95
+AL,Missouri,Dade,4105,4123,99
+AL,Missouri,Dallas,8094,8122,99
+AL,Missouri,Daviess,3850,3884,99
+AL,Missouri,DeKalb,4815,4813,95
+AL,Missouri,Dent,7113,7115,95
+AL,Missouri,Douglas,6965,6994,99
+AL,Missouri,Dunklin,10309,11158,92
+AL,Missouri,Franklin,53339,54085,95
+AL,Missouri,Gasconade,7870,7806,95
+AL,Missouri,Gentry,3219,3239,99
+AL,Missouri,Greene,137470,138074,99
+AL,Missouri,Grundy,4426,4639,95
+AL,Missouri,Harrison,3800,3872,95
+AL,Missouri,Henry,10703,10605,95
+AL,Missouri,Hickory,5061,4949,95
+AL,Missouri,Holt,2333,2468,95
+AL,Missouri,Howard,5064,5089,99
+AL,Missouri,Howell,18522,18287,95
+AL,Missouri,Iron,4531,4473,95
+AL,Missouri,Jackson,328951,342735,95
+AL,Missouri,Jasper,52137,52157,95
+AL,Missouri,Jefferson,115661,116629,99
+AL,Missouri,Johnson,22997,23134,99
+AL,Missouri,Knox,1836,1856,99
+AL,Missouri,Laclede,16763,16816,95
+AL,Missouri,Lafayette,17024,17083,99
+AL,Missouri,Lawrence,17807,17930,99
+AL,Missouri,Lewis,4556,4669,95
+AL,Missouri,Lincoln,28704,26151,95
+AL,Missouri,Linn,5670,5854,95
+AL,Missouri,Livingston,6707,6727,95
+AL,Missouri,McDonald,8966,8966,99
+AL,Missouri,Macon,7796,7834,99
+AL,Missouri,Madison,5653,5671,99
+AL,Missouri,Maries,4770,4774,99
+AL,Missouri,Marion,13276,13370,99
+AL,Missouri,Mercer,1765,1829,95
+AL,Missouri,Miller,12325,11960,95
+AL,Missouri,Mississippi,4695,4756,99
+AL,Missouri,Moniteau,7144,7155,95
+AL,Missouri,Monroe,4422,4354,95
+AL,Missouri,Montgomery,5739,5770,99
+AL,Missouri,Morgan,9453,9241,95
+AL,Missouri,New Madrid,7176,7708,93
+AL,Missouri,Newton,28228,27874,95
+AL,Missouri,Nodaway,9832,10208,95
+AL,Missouri,Oregon,4688,4891,95
+AL,Missouri,Osage,7447,7428,95
+AL,Missouri,Ozark,4818,4720,95
+AL,Missouri,Pemiscot,5592,6637,84
+AL,Missouri,Perry,9335,9156,95
+AL,Missouri,Pettis,18964,18974,95
+AL,Missouri,Phelps,19451,20023,95
+AL,Missouri,Pike,7655,7734,95
+AL,Missouri,Platte,58404,58523,99
+AL,Missouri,Polk,15070,14854,95
+AL,Missouri,Pulaski,14258,14647,95
+AL,Missouri,Putnam,2330,2458,95
+AL,Missouri,Ralls,5633,5517,95
+AL,Missouri,Randolph,10702,10800,95
+AL,Missouri,Ray,11533,11533,99
+AL,Missouri,Reynolds,3218,3354,95
+AL,Missouri,Ripley,5641,5743,98
+AL,Missouri,St. Charles,220238,222175,99
+AL,Missouri,St. Clair,5172,5172,99
+AL,Missouri,Ste. Genevieve,9370,8871,95
+AL,Missouri,St. Francois,27758,25893,95
+AL,Missouri,St. Louis,527244,581544,91
+AL,Missouri,Saline,9489,9528,99
+AL,Missouri,Schuyler,1976,2005,99
+AL,Missouri,Scotland,1958,1985,99
+AL,Missouri,Scott,17623,17748,99
+AL,Missouri,Shannon,3875,4090,95
+AL,Missouri,Shelby,3329,3355,99
+AL,Missouri,Stoddard,13305,13924,95
+AL,Missouri,Stone,18310,18000,95
+AL,Missouri,Sullivan,2450,2719,90
+AL,Missouri,Taney,26062,26240,99
+AL,Missouri,Texas,11276,11478,95
+AL,Missouri,Vernon,9096,9009,95
+AL,Missouri,Warren,18281,16536,95
+AL,Missouri,Washington,9877,2284,99
+AL,Missouri,Wayne,5809,6036,95
+AL,Missouri,Webster,18689,18776,99
+AL,Missouri,Worth,1095,1098,95
+AL,Missouri,Wright,8675,8737,99
+AL,Missouri,St. Louis city,131408,131765,99
+AL,Montana,Beaverhead,5655,5664,99
+AL,Montana,Big Horn,4677,5191,90
+AL,Montana,Blaine,3117,3135,99
+AL,Montana,Broadwater,4058,4069,99
+AL,Montana,Carbon,7022,7045,99
+AL,Montana,Carter,857,937,91
+AL,Montana,Cascade,37407,39841,94
+AL,Montana,Chouteau,2965,2985,99
+AL,Montana,Custer,5864,5878,99
+AL,Montana,Daniels,1009,1188,85
+AL,Montana,Dawson,4826,4837,99
+AL,Montana,Deer Lodge,4870,5005,95
+AL,Montana,Fallon,1555,1751,89
+AL,Montana,Fergus,6456,7000,92
+AL,Montana,Flathead,59701,54863,95
+AL,Montana,Gallatin,70821,62885,95
+AL,Montana,Garfield,813,845,95
+AL,Montana,Glacier,5674,5709,99
+AL,Montana,Golden Valley,503,565,89
+AL,Montana,Granite,2094,2095,95
+AL,Montana,Hill,7167,4897,99
+AL,Montana,Jefferson,8169,8191,99
+AL,Montana,Judith Basin,1338,1434,93
+AL,Montana,Lake,16580,15699,95
+AL,Montana,Lewis and Clark,42439,40409,95
+AL,Montana,Liberty,1083,1166,93
+AL,Montana,Lincoln,11526,10418,95
+AL,Montana,McCone,1117,1251,89
+AL,Montana,Madison,6083,6113,99
+AL,Montana,Meagher,1112,1151,95
+AL,Montana,Mineral,2551,2263,95
+AL,Montana,Missoula,71572,69651,95
+AL,Montana,Musselshell,2870,2711,95
+AL,Montana,Park,11574,10730,95
+AL,Montana,Petroleum,350,351,99
+AL,Montana,Phillips,2371,2500,95
+AL,Montana,Pondera,0,3135,0
+AL,Montana,Powder River,1129,1240,91
+AL,Montana,Powell,3178,3187,99
+AL,Montana,Prairie,730,830,88
+AL,Montana,Ravalli,28485,26368,95
+AL,Montana,Richland,5745,5789,99
+AL,Montana,Roosevelt,3993,4019,99
+AL,Montana,Rosebud,3745,3782,99
+AL,Montana,Sanders,7585,7651,99
+AL,Montana,Sheridan,2012,2275,88
+AL,Montana,Silver Bow,18921,18973,99
+AL,Montana,Stillwater,5694,5711,99
+AL,Montana,Sweet Grass,2448,2441,95
+AL,Montana,Teton,3685,3706,99
+AL,Montana,Toole,2115,2123,99
+AL,Montana,Treasure,0,537,0
+AL,Montana,Valley,4248,4350,95
+AL,Montana,Wheatland,770,1171,66
+AL,Montana,Wibaux,585,642,91
+AL,Montana,Yellowstone,80084,81192,95
+AL,New Hampshire,Alton,3886,3729,95
+AL,New Hampshire,Barnstead,2904,2763,95
+AL,New Hampshire,Belmont,4009,3903,95
+AL,New Hampshire,Center Harbor,788,762,95
+AL,New Hampshire,Gilford,5214,5259,99
+AL,New Hampshire,Gilmanton,2462,2402,95
+AL,New Hampshire,Laconia,8880,8564,95
+AL,New Hampshire,Meredith,4375,4401,99
+AL,New Hampshire,New Hampton,1527,1452,95
+AL,New Hampshire,Sanbornton,2015,2022,95
+AL,New Hampshire,Tilton,2019,1975,95
+AL,New Hampshire,Albany,445,426,95
+AL,New Hampshire,Bartlett,2142,2059,95
+AL,New Hampshire,Brookfield,536,478,95
+AL,New Hampshire,Chatham,244,229,95
+AL,New Hampshire,Conway,5843,5538,95
+AL,New Hampshire,Eaton,305,301,95
+AL,New Hampshire,Effingham,924,899,95
+AL,New Hampshire,Freedom,1080,1016,95
+AL,New Hampshire,Harts Location,43,36,95
+AL,New Hampshire,Jackson,785,728,95
+AL,New Hampshire,Madison,1683,1692,99
+AL,New Hampshire,Moultonborough,3611,3392,95
+AL,New Hampshire,Ossipee,2466,2324,95
+AL,New Hampshire,Sandwich,1122,1080,95
+AL,New Hampshire,Tamworth,1762,1768,99
+AL,New Hampshire,Tuftonboro,1890,1767,95
+AL,New Hampshire,Wakefield,3292,2930,95
+AL,New Hampshire,Wolfeboro,4729,4541,95
+AL,New Hampshire,Alstead,1178,1124,95
+AL,New Hampshire,Chesterfield,2365,2373,95
+AL,New Hampshire,Dublin,1089,1148,95
+AL,New Hampshire,Fitzwilliam,1304,1367,95
+AL,New Hampshire,Gilsum,505,494,95
+AL,New Hampshire,Harrisville,756,753,95
+AL,New Hampshire,Hinsdale,1850,1900,95
+AL,New Hampshire,Jaffrey,3013,3006,99
+AL,New Hampshire,Keene,12721,13136,97
+AL,New Hampshire,Marlborough,1249,1278,95
+AL,New Hampshire,Marlow,488,484,95
+AL,New Hampshire,Nelson,437,488,90
+AL,New Hampshire,Richmond,700,730,95
+AL,New Hampshire,Rindge,3577,3780,95
+AL,New Hampshire,Roxbury,136,166,82
+AL,New Hampshire,Stoddard,919,839,95
+AL,New Hampshire,Sullivan,397,434,91
+AL,New Hampshire,Surry,552,548,95
+AL,New Hampshire,Swanzey,3744,4189,89
+AL,New Hampshire,Troy,1097,1097,95
+AL,New Hampshire,Walpole,2322,2280,95
+AL,New Hampshire,Westmoreland,1111,1193,93
+AL,New Hampshire,Winchester,1965,1942,95
+AL,New Hampshire,Berlin,4025,4388,92
+AL,New Hampshire,Carroll,534,636,84
+AL,New Hampshire,Clarksville,180,184,95
+AL,New Hampshire,Colebrook,1056,1088,95
+AL,New Hampshire,Columbia,364,366,95
+AL,New Hampshire,Dalton,519,528,95
+AL,New Hampshire,Dixville,5,5,100
+AL,New Hampshire,Dummer,184,184,95
+AL,New Hampshire,Errol,222,211,95
+AL,New Hampshire,Gorham,1662,1672,99
+AL,New Hampshire,Jefferson,657,642,95
+AL,New Hampshire,Lancaster,1719,1714,95
+AL,New Hampshire,Milan,792,794,95
+AL,New Hampshire,Millsfield,22,22,100
+AL,New Hampshire,Northumberland,1043,1056,95
+AL,New Hampshire,Pittsburg,541,531,95
+AL,New Hampshire,Randolph,272,266,95
+AL,New Hampshire,Shelburne,248,274,91
+AL,New Hampshire,Stark,292,317,92
+AL,New Hampshire,Stewartstown,393,413,95
+AL,New Hampshire,Stratford,296,291,95
+AL,New Hampshire,Wentworth's Location,20,20,95
+AL,New Hampshire,Whitefield,1302,1189,95
+AL,New Hampshire,Alexandria,1068,1005,95
+AL,New Hampshire,Ashland,1193,1183,95
+AL,New Hampshire,Bath,613,572,95
+AL,New Hampshire,Benton,233,201,95
+AL,New Hampshire,Bethlehem,1639,1538,95
+AL,New Hampshire,Bridgewater,848,766,95
+AL,New Hampshire,Bristol,1846,1734,95
+AL,New Hampshire,Campton,2107,1997,95
+AL,New Hampshire,Canaan,2056,2065,95
+AL,New Hampshire,Dorchester,229,228,95
+AL,New Hampshire,Easton,233,206,95
+AL,New Hampshire,Ellsworth,76,61,95
+AL,New Hampshire,Enfield,2737,2767,95
+AL,New Hampshire,Franconia,806,806,95
+AL,New Hampshire,Grafton,778,754,95
+AL,New Hampshire,Groton,375,345,95
+AL,New Hampshire,Hanover,6838,8481,81
+AL,New Hampshire,Haverhill,2110,2243,94
+AL,New Hampshire,Hebron,517,456,95
+AL,New Hampshire,Holderness,1475,1394,95
+AL,New Hampshire,Landaff,259,264,95
+AL,New Hampshire,Lebanon,7837,7785,95
+AL,New Hampshire,Lincoln,907,892,95
+AL,New Hampshire,Lisbon,790,755,95
+AL,New Hampshire,Littleton,3098,3051,95
+AL,New Hampshire,Lyman,379,334,95
+AL,New Hampshire,Lyme,1273,1324,95
+AL,New Hampshire,Monroe,535,522,95
+AL,New Hampshire,Orange,191,191,95
+AL,New Hampshire,Orford,823,789,95
+AL,New Hampshire,Piermont,439,457,95
+AL,New Hampshire,Plymouth,3314,4049,82
+AL,New Hampshire,Rumney,943,929,95
+AL,New Hampshire,Sugar Hill,482,449,95
+AL,New Hampshire,Thornton,1689,1713,99
+AL,New Hampshire,Warren,476,491,95
+AL,New Hampshire,Waterville,368,276,95
+AL,New Hampshire,Wentworth,618,554,95
+AL,New Hampshire,Woodstock,852,814,95
+AL,New Hampshire,Amherst,7978,8592,93
+AL,New Hampshire,Antrim,1567,1584,99
+AL,New Hampshire,Bedford,14668,15390,95
+AL,New Hampshire,Bennington,822,878,94
+AL,New Hampshire,Brookline,3596,3428,95
+AL,New Hampshire,Deering,1144,1136,95
+AL,New Hampshire,Francestown,1129,1083,95
+AL,New Hampshire,Goffstown,10121,10029,99
+AL,New Hampshire,Greenfield,1001,1001,95
+AL,New Hampshire,Greenville,1051,1030,95
+AL,New Hampshire,Hancock,1276,1320,95
+AL,New Hampshire,Hillsborough,3230,3730,87
+AL,New Hampshire,Hollis,5643,5960,95
+AL,New Hampshire,Hudson,14454,14641,99
+AL,New Hampshire,Litchfield,5346,5430,95
+AL,New Hampshire,Lyndeborough,1133,1164,95
+AL,New Hampshire,Manchester,50103,56940,88
+AL,New Hampshire,Mason,949,939,95
+AL,New Hampshire,Merrimack,16572,16997,95
+AL,New Hampshire,Milford,8879,9092,98
+AL,New Hampshire,Mont Vernon,1756,1675,95
+AL,New Hampshire,Nashua,44532,49039,91
+AL,New Hampshire,New Boston,3887,3934,99
+AL,New Hampshire,New Ipswich,3115,3093,95
+AL,New Hampshire,Pelham,8753,8463,95
+AL,New Hampshire,Peterborough,4316,4272,95
+AL,New Hampshire,Sharon,272,277,95
+AL,New Hampshire,Temple,946,945,95
+AL,New Hampshire,Weare,5496,5535,95
+AL,New Hampshire,Wilton,2446,2450,95
+AL,New Hampshire,Windsor,127,137,93
+AL,New Hampshire,Allenstown,2270,2423,94
+AL,New Hampshire,Andover,1587,1530,95
+AL,New Hampshire,Boscawen,2023,2043,95
+AL,New Hampshire,Bow,5506,5512,99
+AL,New Hampshire,Bradford,1061,1079,95
+AL,New Hampshire,Canterbury,1727,1717,95
+AL,New Hampshire,Chichester,1726,1746,95
+AL,New Hampshire,Concord,23521,25424,93
+AL,New Hampshire,Danbury,724,725,95
+AL,New Hampshire,Dunbarton,2016,2073,95
+AL,New Hampshire,Epsom,2907,2891,95
+AL,New Hampshire,Franklin,4089,4178,98
+AL,New Hampshire,Henniker,2659,2923,91
+AL,New Hampshire,Hill,633,590,95
+AL,New Hampshire,Hooksett,8527,9292,92
+AL,New Hampshire,Hopkinton,4158,4220,95
+AL,New Hampshire,Loudon,3720,3629,99
+AL,New Hampshire,Newbury,1647,1481,95
+AL,New Hampshire,New London,3123,3136,99
+AL,New Hampshire,Northfield,2628,2510,95
+AL,New Hampshire,Pembroke,4302,4325,99
+AL,New Hampshire,Pittsfield,2079,2140,95
+AL,New Hampshire,Salisbury,919,867,95
+AL,New Hampshire,Sutton,1351,1354,95
+AL,New Hampshire,Warner,1931,1953,95
+AL,New Hampshire,Webster,1228,1258,95
+AL,New Hampshire,Wilmot,957,969,95
+AL,New Hampshire,Atkinson,5077,5104,99
+AL,New Hampshire,Auburn,3883,3879,95
+AL,New Hampshire,Brentwood,2870,2826,95
+AL,New Hampshire,Candia,2764,2816,98
+AL,New Hampshire,Chester,3425,3271,95
+AL,New Hampshire,Danville,2783,2836,95
+AL,New Hampshire,Deerfield,3194,3155,95
+AL,New Hampshire,Derry,17721,17894,99
+AL,New Hampshire,East Kingston,1662,1700,95
+AL,New Hampshire,Epping,4306,4437,97
+AL,New Hampshire,Exeter,10215,10336,99
+AL,New Hampshire,Fremont,2826,2995,94
+AL,New Hampshire,Greenland,2882,2774,95
+AL,New Hampshire,Hampstead,5829,5958,95
+AL,New Hampshire,Hampton,11412,10895,95
+AL,New Hampshire,Hampton Falls,1690,1679,95
+AL,New Hampshire,Kensington,1541,1528,95
+AL,New Hampshire,Kingston,4064,4102,99
+AL,New Hampshire,Londonderry,15757,15536,95
+AL,New Hampshire,New Castle,918,873,95
+AL,New Hampshire,Newfields,1252,1215,95
+AL,New Hampshire,Newington,635,632,95
+AL,New Hampshire,Newmarket,5902,5751,95
+AL,New Hampshire,Newton,2964,3005,95
+AL,New Hampshire,North Hampton,3440,3364,95
+AL,New Hampshire,Northwood,2829,2854,95
+AL,New Hampshire,Nottingham,3489,3295,95
+AL,New Hampshire,Plaistow,4537,4865,93
+AL,New Hampshire,Portsmouth,14389,14360,99
+AL,New Hampshire,Raymond,5905,5914,95
+AL,New Hampshire,Rye,4427,4267,95
+AL,New Hampshire,Salem,17653,17679,95
+AL,New Hampshire,Sandown,3953,3933,95
+AL,New Hampshire,Seabrook,4886,4818,95
+AL,New Hampshire,South Hampton,644,647,95
+AL,New Hampshire,Stratham,5437,5207,95
+AL,New Hampshire,Windham,9742,9688,95
+AL,New Hampshire,Barrington,5932,5599,95
+AL,New Hampshire,Dover,18992,19013,99
+AL,New Hampshire,Durham,7495,7810,96
+AL,New Hampshire,Farmington,3408,3309,95
+AL,New Hampshire,Lee,2922,2805,95
+AL,New Hampshire,Madbury,1288,1221,95
+AL,New Hampshire,Middleton,1032,985,95
+AL,New Hampshire,Milton,2511,2456,95
+AL,New Hampshire,New Durham,1833,1862,98
+AL,New Hampshire,Rochester,16711,16013,95
+AL,New Hampshire,Rollinsford,1717,1696,95
+AL,New Hampshire,Somersworth,6022,6071,99
+AL,New Hampshire,Strafford,2750,2802,98
+AL,New Hampshire,Acworth,562,606,93
+AL,New Hampshire,Charlestown,2456,2544,95
+AL,New Hampshire,Claremont,5744,6050,95
+AL,New Hampshire,Cornish,1141,1131,95
+AL,New Hampshire,Croydon,504,471,95
+AL,New Hampshire,Goshen,476,481,95
+AL,New Hampshire,Grantham,2393,2235,95
+AL,New Hampshire,Langdon,408,428,95
+AL,New Hampshire,Lempster,708,747,95
+AL,New Hampshire,Newport,3096,3188,95
+AL,New Hampshire,Plainfield,1654,1633,95
+AL,New Hampshire,Springfield,880,897,95
+AL,New Hampshire,Sunapee,2412,2283,95
+AL,New Hampshire,Unity,877,875,95
+AL,New Hampshire,Washington,796,753,95
+AL,North Carolina,Alamance,85935,86091,100
+AL,North Carolina,Alexander,20187,20236,100
+AL,North Carolina,Alleghany,6084,6076,100
+AL,North Carolina,Anson,11206,11205,100
+AL,North Carolina,Ashe,15777,15814,100
+AL,North Carolina,Avery,9417,9458,100
+AL,North Carolina,Beaufort,26232,26315,100
+AL,North Carolina,Bertie,9788,9815,100
+AL,North Carolina,Bladen,17033,17125,100
+AL,North Carolina,Brunswick,89781,90175,100
+AL,North Carolina,Buncombe,160442,161569,100
+AL,North Carolina,Burke,44459,44602,100
+AL,North Carolina,Cabarrus,116337,117227,100
+AL,North Carolina,Caldwell,42673,42829,100
+AL,North Carolina,Camden,5913,5953,100
+AL,North Carolina,Carteret,42524,42695,100
+AL,North Carolina,Caswell,12020,12051,100
+AL,North Carolina,Catawba,83248,83425,100
+AL,North Carolina,Chatham,48544,48599,100
+AL,North Carolina,Cherokee,16351,16423,100
+AL,North Carolina,Chowan,7765,7784,100
+AL,North Carolina,Clay,6858,6893,100
+AL,North Carolina,Cleveland,51124,51308,100
+AL,North Carolina,Columbus,26245,26446,100
+AL,North Carolina,Craven,52856,53065,100
+AL,North Carolina,Cumberland,146493,147150,100
+AL,North Carolina,Currituck,16025,16147,100
+AL,North Carolina,Dare,24020,24232,100
+AL,North Carolina,Davidson,88430,88514,100
+AL,North Carolina,Davie,25278,25311,100
+AL,North Carolina,Duplin,22640,22715,100
+AL,North Carolina,Durham,179595,179914,100
+AL,North Carolina,Edgecombe,25449,25477,100
+AL,North Carolina,Forsyth,200316,201262,100
+AL,North Carolina,Franklin,37351,37357,100
+AL,North Carolina,Gaston,114919,115498,100
+AL,North Carolina,Gates,5933,5971,100
+AL,North Carolina,Graham,4644,4665,100
+AL,North Carolina,Granville,31548,31598,100
+AL,North Carolina,Greene,8735,8753,100
+AL,North Carolina,Guilford,282592,284486,100
+AL,North Carolina,Halifax,25698,25759,100
+AL,North Carolina,Harnett,58082,58293,100
+AL,North Carolina,Haywood,36459,36542,100
+AL,North Carolina,Henderson,68190,68371,100
+AL,North Carolina,Hertford,10568,10634,100
+AL,North Carolina,Hoke,21528,22016,100
+AL,North Carolina,Hyde,2483,2492,100
+AL,North Carolina,Iredell,101997,102371,100
+AL,North Carolina,Jackson,21346,21428,100
+AL,North Carolina,Johnston,111079,111362,100
+AL,North Carolina,Jones,5512,5525,100
+AL,North Carolina,Lee,28861,29008,100
+AL,North Carolina,Lenoir,28348,28409,100
+AL,North Carolina,Lincoln,50108,50217,100
+AL,North Carolina,McDowell,22900,23003,100
+AL,North Carolina,Macon,20684,20743,100
+AL,North Carolina,Madison,13051,13076,100
+AL,North Carolina,Martin,12513,12540,100
+AL,North Carolina,Mecklenburg,564433,567053,100
+AL,North Carolina,Mitchell,9001,9041,100
+AL,North Carolina,Montgomery,12826,12849,100
+AL,North Carolina,Moore,58127,58339,100
+AL,North Carolina,Nash,52194,52271,100
+AL,North Carolina,New Hanover,131286,131840,100
+AL,North Carolina,Northampton,10084,10109,100
+AL,North Carolina,Onslow,71478,72235,100
+AL,North Carolina,Orange,84815,84997,100
+AL,North Carolina,Pamlico,7626,7631,100
+AL,North Carolina,Pasquotank,19811,19897,100
+AL,North Carolina,Pender,34005,34169,100
+AL,North Carolina,Perquimans,7471,7484,100
+AL,North Carolina,Person,21809,21894,100
+AL,North Carolina,Pitt,87388,87573,100
+AL,North Carolina,Polk,12299,12358,100
+AL,North Carolina,Randolph,72913,73316,100
+AL,North Carolina,Richmond,20631,20763,100
+AL,North Carolina,Robeson,46590,47188,100
+AL,North Carolina,Rockingham,47652,47809,100
+AL,North Carolina,Rowan,73219,73408,100
+AL,North Carolina,Rutherford,34276,34429,100
+AL,North Carolina,Sampson,28538,28618,100
+AL,North Carolina,Scotland,14647,14775,100
+AL,North Carolina,Stanly,33816,33939,100
+AL,North Carolina,Stokes,25681,25702,100
+AL,North Carolina,Surry,36599,36638,100
+AL,North Carolina,Swain,7029,7068,100
+AL,North Carolina,Transylvania,20325,20404,100
+AL,North Carolina,Tyrrell,1802,1817,100
+AL,North Carolina,Union,130471,131011,100
+AL,North Carolina,Vance,20950,20999,100
+AL,North Carolina,Wake,629673,631830,100
+AL,North Carolina,Warren,10295,10293,100
+AL,North Carolina,Washington,6191,6205,100
+AL,North Carolina,Watauga,32040,32220,100
+AL,North Carolina,Wayne,55316,55537,100
+AL,North Carolina,Wilkes,35348,35464,100
+AL,North Carolina,Wilson,40685,40735,100
+AL,North Carolina,Yadkin,19900,19923,100
+AL,North Carolina,Yancey,11374,11352,100
+AL,North Dakota,Adams,1203,1269,100
+AL,North Dakota,Barnes,5314,5565,100
+AL,North Dakota,Benson,1867,1961,100
+AL,North Dakota,Billings,527,635,100
+AL,North Dakota,Bottineau,3334,3471,100
+AL,North Dakota,Bowman,1478,1657,100
+AL,North Dakota,Burke,1032,1155,100
+AL,North Dakota,Burleigh,45516,50753,100
+AL,North Dakota,Cass,84441,86053,100
+AL,North Dakota,Cavalier,1949,2020,100
+AL,North Dakota,Dickey,2342,2424,100
+AL,North Dakota,Divide,1158,1202,100
+AL,North Dakota,Dunn,2090,2338,100
+AL,North Dakota,Eddy,1191,1261,100
+AL,North Dakota,Emmons,1698,2009,100
+AL,North Dakota,Foster,1665,1778,100
+AL,North Dakota,Golden Valley,943,1026,100
+AL,North Dakota,Grand Forks,30111,30970,100
+AL,North Dakota,Grant,1206,1381,100
+AL,North Dakota,Griggs,1204,1250,100
+AL,North Dakota,Hettinger,1141,1312,100
+AL,North Dakota,Kidder,1218,1460,100
+AL,North Dakota,LaMoure,2126,2219,100
+AL,North Dakota,Logan,902,1076,100
+AL,North Dakota,McHenry,2794,3003,100
+AL,North Dakota,McIntosh,1374,1455,100
+AL,North Dakota,McKenzie,5156,5419,100
+AL,North Dakota,McLean,4865,5536,100
+AL,North Dakota,Mercer,4118,4812,86
+AL,North Dakota,Morton,14460,16619,100
+AL,North Dakota,Mountrail,3933,4165,100
+AL,North Dakota,Nelson,1736,1777,100
+AL,North Dakota,Oliver,908,1066,100
+AL,North Dakota,Pembina,3167,3331,100
+AL,North Dakota,Pierce,1956,2128,100
+AL,North Dakota,Ramsey,5181,5372,100
+AL,North Dakota,Ransom,2393,2454,100
+AL,North Dakota,Renville,1275,1319,100
+AL,North Dakota,Richland,7657,7812,100
+AL,North Dakota,Rolette,3727,3804,100
+AL,North Dakota,Sargent,2038,2070,100
+AL,North Dakota,Sheridan,660,812,100
+AL,North Dakota,Sioux,1084,1186,100
+AL,North Dakota,Slope,385,427,100
+AL,North Dakota,Stark,13230,15050,100
+AL,North Dakota,Steele,1071,1088,100
+AL,North Dakota,Stutsman,9458,9959,100
+AL,North Dakota,Towner,1125,1174,100
+AL,North Dakota,Traill,4052,4136,100
+AL,North Dakota,Walsh,4556,4783,100
+AL,North Dakota,Ward,27144,28246,100
+AL,North Dakota,Wells,2060,2374,100
+AL,North Dakota,Williams,12902,14334,100
+AL,Utah,Beaver,2909,3021,95
+AL,Utah,Box Elder,25740,23287,95
+AL,Utah,Cache,55678,54465,95
+AL,Utah,Carbon,9023,9383,95
+AL,Utah,Daggett,585,614,95
+AL,Utah,Davis,166994,163325,95
+AL,Utah,Duchesne,8195,8192,95
+AL,Utah,Emery,4600,5250,88
+AL,Utah,Garfield,2645,2766,95
+AL,Utah,Grand,5016,5349,94
+AL,Utah,Iron,23573,20832,95
+AL,Utah,Juab,5783,5900,95
+AL,Utah,Kane,3931,4136,95
+AL,Utah,Millard,5398,6186,87
+AL,Utah,Morgan,6311,6127,95
+AL,Utah,Piute,800,923,87
+AL,Utah,Rich,1283,1309,95
+AL,Utah,Salt Lake,526564,494264,95
+AL,Utah,San Juan,6512,6427,95
+AL,Utah,Sanpete,12089,11994,95
+AL,Utah,Sevier,9805,10212,95
+AL,Utah,Summit,25148,24356,95
+AL,Utah,Tooele,30396,28000,95
+AL,Utah,Uintah,14303,15100,95
+AL,Utah,Utah,277191,237830,95
+AL,Utah,Wasatch,17094,14302,95
+AL,Utah,Washington,84775,77000,95
+AL,Utah,Wayne,1537,1677,92
+AL,Utah,Weber,107607,100346,95
+AL,Vermont,Jamaica,574,581,100
+AL,Vermont,Jay,293,294,100
+AL,Vermont,Jericho,3635,3662,100
+AL,Vermont,Johnson,1569,1589,100
+AL,Vermont,Kirby,328,329,100
+AL,Vermont,Landgrove,135,135,100
+AL,Vermont,Leicester,540,542,100
+AL,Vermont,Lemington,50,50,100
+AL,Vermont,Lincoln,945,959,100
+AL,Vermont,Londonderry,1106,1118,100
+AL,Vermont,Barnet,1078,1095,100
+AL,Vermont,Lowell,476,487,100
+AL,Vermont,Ludlow,1214,1237,100
+AL,Vermont,Lunenburg,619,633,100
+AL,Vermont,Lyndon,2405,2440,100
+AL,Vermont,Maidstone,137,145,100
+AL,Vermont,Manchester,2724,2785,100
+AL,Vermont,Marlboro,643,646,100
+AL,Vermont,Marshfield,954,964,100
+AL,Vermont,Mendon,776,780,100
+AL,Vermont,Middlebury,4272,4331,100
+AL,Vermont,Barre,3772,3807,100
+AL,Vermont,Middlesex,1243,1243,100
+AL,Vermont,Middletown Springs,547,549,100
+AL,Vermont,Milton,6093,6168,100
+AL,Vermont,Monkton,1400,1403,100
+AL,Vermont,Montgomery,747,756,100
+AL,Vermont,Montpelier,5115,5185,100
+AL,Vermont,Moretown,1188,1188,100
+AL,Vermont,Morgan,389,401,100
+AL,Vermont,Morristown,3182,3197,100
+AL,Vermont,Mount Holly,834,848,100
+AL,Vermont,Barre Town,4757,4766,100
+AL,Vermont,Mount Tabor,115,117,100
+AL,Vermont,Newark,340,346,100
+AL,Vermont,Newbury,1195,1228,95
+AL,Vermont,Newfane,1117,1141,100
+AL,Vermont,New Haven,1164,1172,100
+AL,Vermont,Newport,1805,1842,100
+AL,Vermont,Newport Town,768,776,100
+AL,Vermont,Northfield,2448,2465,100
+AL,Vermont,North Hero,700,705,100
+AL,Vermont,Norton,106,108,100
+AL,Vermont,Barton,1270,1296,100
+AL,Vermont,Norwich,2490,2570,100
+AL,Vermont,Orange,612,612,100
+AL,Vermont,Orwell,742,752,100
+AL,Vermont,Panton,417,420,100
+AL,Vermont,Pawlet,876,887,100
+AL,Vermont,Peacham,516,519,100
+AL,Vermont,Peru,295,300,100
+AL,Vermont,Pittsfield,330,332,100
+AL,Vermont,Pittsford,1711,1737,100
+AL,Vermont,Plainfield,806,814,100
+AL,Vermont,Belvidere,176,176,100
+AL,Vermont,Plymouth,371,371,100
+AL,Vermont,Pomfret,669,679,100
+AL,Vermont,Poultney,1629,1664,100
+AL,Vermont,Pownal,1742,1778,100
+AL,Vermont,Proctor,950,955,100
+AL,Vermont,Putney,1487,1515,100
+AL,Vermont,Randolph,2583,2586,100
+AL,Vermont,Reading,439,445,100
+AL,Vermont,Readsboro,416,431,100
+AL,Vermont,Richford,926,942,100
+AL,Vermont,Bennington,6897,7096,100
+AL,Vermont,Richmond,2918,2941,100
+AL,Vermont,Ripton,361,369,100
+AL,Vermont,Rochester,722,732,100
+AL,Vermont,Rockingham,2466,2519,100
+AL,Vermont,Roxbury,431,433,100
+AL,Vermont,Royalton,1462,1486,100
+AL,Vermont,Rupert,432,437,100
+AL,Vermont,Rutland,7871,8000,100
+AL,Vermont,Rutland Town,2462,2486,100
+AL,Vermont,Ryegate,638,648,100
+AL,Vermont,Benson,579,583,100
+AL,Vermont,St. Albans,3019,3057,100
+AL,Vermont,St. Albans Town,3778,3794,100
+AL,Vermont,St. George,447,453,100
+AL,Vermont,St. Johnsbury,3350,3377,100
+AL,Vermont,Salisbury,678,678,100
+AL,Vermont,Sandgate,249,253,100
+AL,Vermont,Searsburg,62,64,100
+AL,Vermont,Shaftsbury,2196,2139,95
+AL,Vermont,Sharon,893,894,100
+AL,Vermont,Sheffield,368,374,100
+AL,Vermont,Berkshire,707,711,100
+AL,Vermont,Shelburne,5358,5419,100
+AL,Vermont,Sheldon,993,1015,100
+AL,Vermont,Killington,825,836,100
+AL,Vermont,Shoreham,738,742,100
+AL,Vermont,Shrewsbury,678,690,100
+AL,Vermont,South Burlington,12507,12670,100
+AL,Vermont,South Hero,1306,1309,100
+AL,Vermont,Springfield,4405,4516,100
+AL,Vermont,Stamford,509,539,100
+AL,Vermont,Stannard,112,114,100
+AL,Vermont,Berlin,1536,1536,100
+AL,Vermont,Starksboro,1020,1023,100
+AL,Vermont,Stockbridge,471,477,100
+AL,Vermont,Stowe,3388,3406,100
+AL,Vermont,Strafford,794,800,100
+AL,Vermont,Stratton,190,190,100
+AL,Vermont,Sudbury,386,388,100
+AL,Vermont,Sunderland,643,652,100
+AL,Vermont,Sutton,521,539,100
+AL,Vermont,Swanton,3202,3228,100
+AL,Vermont,Thetford,1888,1910,100
+AL,Vermont,Bethel,1132,1147,100
+AL,Vermont,Addison,862,870,100
+AL,Vermont,Tinmouth,334,341,100
+AL,Vermont,Topsham,638,646,100
+AL,Vermont,Townshend,748,769,100
+AL,Vermont,Troy,783,795,100
+AL,Vermont,Tunbridge,858,863,100
+AL,Vermont,Underhill,2209,2224,100
+AL,Vermont,Vergennes,1481,1481,100
+AL,Vermont,Vernon,1248,1300,100
+AL,Vermont,Vershire,421,428,100
+AL,Vermont,Victory,55,55,100
+AL,Vermont,Bloomfield,129,130,100
+AL,Vermont,Waitsfield,1230,1248,100
+AL,Vermont,Walden,577,586,100
+AL,Vermont,Wallingford,1279,1298,100
+AL,Vermont,Waltham,326,326,100
+AL,Vermont,Wardsboro,491,492,100
+AL,Vermont,Warren,1250,1264,100
+AL,Vermont,Washington,601,609,100
+AL,Vermont,Waterbury,3469,3498,100
+AL,Vermont,Waterford,818,831,100
+AL,Vermont,Waterville,451,454,100
+AL,Vermont,Bolton,780,780,100
+AL,Vermont,Weathersfield,1786,1792,100
+AL,Vermont,Wells,726,742,100
+AL,Vermont,West Fairlee,351,357,100
+AL,Vermont,Westfield,343,349,100
+AL,Vermont,Westford,1413,1425,100
+AL,Vermont,West Haven,150,154,95
+AL,Vermont,Westminster,1770,1789,100
+AL,Vermont,Westmore,233,240,100
+AL,Vermont,Weston,454,456,100
+AL,Vermont,West Rutland,1154,1167,100
+AL,Vermont,Bradford,1474,1494,100
+AL,Vermont,West Windsor,836,841,100
+AL,Vermont,Weybridge,604,612,100
+AL,Vermont,Wheelock,447,452,100
+AL,Vermont,Whiting,216,218,100
+AL,Vermont,Whitingham,748,775,100
+AL,Vermont,Williamstown,1851,1862,100
+AL,Vermont,Williston,6829,6873,100
+AL,Vermont,Wilmington,1134,1156,100
+AL,Vermont,Windham,279,282,100
+AL,Vermont,Windsor,1859,1890,100
+AL,Vermont,Braintree,709,717,100
+AL,Vermont,Winhall,667,674,100
+AL,Vermont,Winooski,3623,3701,100
+AL,Vermont,Wolcott,919,923,100
+AL,Vermont,Woodbury,588,588,100
+AL,Vermont,Woodford,191,196,100
+AL,Vermont,Woodstock,2087,2109,100
+AL,Vermont,Worcester,621,624,100
+AL,Vermont,Brandon,2172,2184,100
+AL,Vermont,Brattleboro,6475,6663,100
+AL,Vermont,Bridgewater,593,601,100
+AL,Vermont,Bridport,739,739,100
+AL,Vermont,Brighton,551,619,100
+AL,Vermont,Bristol,2236,2245,100
+AL,Vermont,Albany,536,540,100
+AL,Vermont,Brookfield,844,852,100
+AL,Vermont,Brookline,329,329,100
+AL,Vermont,Brownington,477,490,100
+AL,Vermont,Brunswick,65,65,100
+AL,Vermont,Burke,908,924,100
+AL,Vermont,Burlington,21721,22218,100
+AL,Vermont,Cabot,874,892,100
+AL,Vermont,Calais,1130,1148,100
+AL,Vermont,Cambridge,2184,2199,100
+AL,Vermont,Canaan,488,498,100
+AL,Vermont,Alburgh,1069,1079,100
+AL,Vermont,Castleton,2129,2161,100
+AL,Vermont,Cavendish,780,792,100
+AL,Vermont,Charleston,524,541,100
+AL,Vermont,Charlotte,2850,2886,100
+AL,Vermont,Chelsea,730,730,100
+AL,Vermont,Chester,1742,1772,100
+AL,Vermont,Chittenden,844,853,100
+AL,Vermont,Clarendon,1448,1469,100
+AL,Vermont,Colchester,9499,9594,100
+AL,Vermont,Concord,627,630,100
+AL,Vermont,Andover,357,365,100
+AL,Vermont,Corinth,821,830,100
+AL,Vermont,Cornwall,847,850,100
+AL,Vermont,Coventry,562,568,100
+AL,Vermont,Craftsbury,763,774,100
+AL,Vermont,Danby,748,755,100
+AL,Vermont,Danville,1466,1469,100
+AL,Vermont,Derby,2471,2515,100
+AL,Vermont,Dorset,1391,1413,100
+AL,Vermont,Dover,950,950,100
+AL,Vermont,Dummerston,1320,1357,100
+AL,Vermont,Arlington,1458,1485,100
+AL,Vermont,Duxbury,909,914,100
+AL,Vermont,East Haven,140,140,100
+AL,Vermont,East Montpelier,1741,1764,100
+AL,Vermont,Eden,622,634,100
+AL,Vermont,Elmore,607,607,100
+AL,Vermont,Enosburgh,1270,1274,100
+AL,Vermont,Essex,13278,13414,100
+AL,Vermont,Fairfax,2977,2694,95
+AL,Vermont,Fairfield,1136,1140,100
+AL,Vermont,Fair Haven,1298,1308,100
+AL,Vermont,Athens,210,214,100
+AL,Vermont,Fairlee,629,629,100
+AL,Vermont,Fayston,954,971,100
+AL,Vermont,Ferrisburg,1815,1830,100
+AL,Vermont,Fletcher,820,824,100
+AL,Vermont,Franklin,763,763,100
+AL,Vermont,Georgia,2899,2917,100
+AL,Vermont,Glover,659,666,100
+AL,Vermont,Goshen,129,129,100
+AL,Vermont,Grafton,411,411,100
+AL,Vermont,Granby,43,43,100
+AL,Vermont,Bakersfield,696,696,100
+AL,Vermont,Grand Isle,1400,1409,100
+AL,Vermont,Granville,164,169,100
+AL,Vermont,Greensboro,483,491,100
+AL,Vermont,Groton,537,549,100
+AL,Vermont,Guildhall,171,174,100
+AL,Vermont,Guilford,1328,1354,100
+AL,Vermont,Halifax,475,492,100
+AL,Vermont,Hancock,171,171,100
+AL,Vermont,Hardwick,1564,1577,100
+AL,Vermont,Hartford,6162,6264,100
+AL,Vermont,Baltimore,139,143,100
+AL,Vermont,Hartland,2157,2198,100
+AL,Vermont,Highgate,1716,1726,100
+AL,Vermont,Hinesburg,3054,3084,100
+AL,Vermont,Holland,351,358,100
+AL,Vermont,Hubbardton,421,427,100
+AL,Vermont,Huntington,1401,1405,100
+AL,Vermont,Hyde Park,1718,1731,100
+AL,Vermont,Ira,258,262,100
+AL,Vermont,Irasburg,665,638,95
+AL,Vermont,Isle La Motte,349,349,100
+AL,Vermont,Barnard,664,669,100
+AL,Washington,Adams,5774,5512,95
+AL,Washington,Asotin,11754,11386,95
+AL,Washington,Benton,101768,92031,95
+AL,Washington,Chelan,42246,38387,95
+AL,Washington,Clallam,48871,45376,95
+AL,Washington,Clark,270764,230184,95
+AL,Washington,Columbia,2471,2598,95
+AL,Washington,Cowlitz,59507,52546,95
+AL,Washington,Douglas,21059,18500,95
+AL,Washington,Ferry,4286,4141,95
+AL,Washington,Franklin,31904,27278,95
+AL,Washington,Garfield,1457,1470,95
+AL,Washington,Grant,37283,32598,95
+AL,Washington,Grays Harbor,37657,32987,95
+AL,Washington,Island,53293,49307,95
+AL,Washington,Jefferson,24622,23317,95
+AL,Washington,King,1191941,1148274,95
+AL,Washington,Kitsap,156855,142965,95
+AL,Washington,Kittitas,25407,21798,95
+AL,Washington,Klickitat,13401,12384,95
+AL,Washington,Lewis,44991,42800,95
+AL,Washington,Lincoln,6957,6753,95
+AL,Washington,Mason,37014,32470,95
+AL,Washington,Okanogan,20986,19655,95
+AL,Washington,Pacific,13934,12323,95
+AL,Washington,Pend Oreille,8381,8400,95
+AL,Washington,Pierce,458653,395000,95
+AL,Washington,San Juan,12890,12390,95
+AL,Washington,Skagit,71741,64363,95
+AL,Washington,Skamania,7051,6115,99
+AL,Washington,Snohomish,433874,393499,95
+AL,Washington,Spokane,292331,261333,95
+AL,Washington,Stevens,27963,26079,95
+AL,Washington,Thurston,165598,148822,95
+AL,Washington,Wahkiakum,2920,2712,95
+AL,Washington,Walla Walla,29741,29232,95
+AL,Washington,Whatcom,137342,126124,95
+AL,Washington,Whitman,20796,19901,95
+AL,Washington,Yakima,95207,89413,95
+AL,West Virginia,Barbour,6552,6659,95
+AL,West Virginia,Berkeley,47897,49100,95
+AL,West Virginia,Boone,8992,8983,99
+AL,West Virginia,Braxton,5545,5599,95
+AL,West Virginia,Brooke,10409,10631,98
+AL,West Virginia,Cabell,36185,36900,95
+AL,West Virginia,Calhoun,2886,2879,95
+AL,West Virginia,Clay,3218,3313,95
+AL,West Virginia,Doddridge,2964,3124,95
+AL,West Virginia,Fayette,16691,16794,99
+AL,West Virginia,Gilmer,2580,2797,92
+AL,West Virginia,Grant,5157,5452,95
+AL,West Virginia,Greenbrier,15724,15374,95
+AL,West Virginia,Hampshire,9827,9872,99
+AL,West Virginia,Hancock,13511,13882,95
+AL,West Virginia,Hardy,6120,6207,95
+AL,West Virginia,Harrison,30068,30559,95
+AL,West Virginia,Jackson,12751,13320,95
+AL,West Virginia,Jefferson,26818,27300,95
+AL,West Virginia,Kanawha,82003,83259,95
+AL,West Virginia,Lewis,7325,7621,95
+AL,West Virginia,Lincoln,7578,7773,95
+AL,West Virginia,Logan,12745,13595,94
+AL,West Virginia,McDowell,6280,6823,92
+AL,West Virginia,Marion,25631,25170,95
+AL,West Virginia,Marshall,13803,14445,95
+AL,West Virginia,Mason,11039,11205,95
+AL,West Virginia,Mercer,24947,25103,99
+AL,West Virginia,Mineral,12589,12720,95
+AL,West Virginia,Mingo,9653,10461,92
+AL,West Virginia,Monongalia,41757,42000,95
+AL,West Virginia,Monroe,6223,6386,95
+AL,West Virginia,Morgan,8347,8365,95
+AL,West Virginia,Nicholas,10517,10440,95
+AL,West Virginia,Ohio,19654,19732,95
+AL,West Virginia,Pendleton,3583,3563,95
+AL,West Virginia,Pleasants,3392,3500,95
+AL,West Virginia,Pocahontas,3851,4011,95
+AL,West Virginia,Preston,14008,14700,95
+AL,West Virginia,Putnam,28370,28410,99
+AL,West Virginia,Raleigh,32191,32371,95
+AL,West Virginia,Randolph,11718,11964,95
+AL,West Virginia,Ritchie,4082,4483,91
+AL,West Virginia,Roane,5660,5772,95
+AL,West Virginia,Summers,5524,5600,95
+AL,West Virginia,Taylor,7192,7146,95
+AL,West Virginia,Tucker,3751,3799,95
+AL,West Virginia,Tyler,3766,4019,94
+AL,West Virginia,Upshur,9930,10140,95
+AL,West Virginia,Wayne,16351,16700,95
+AL,West Virginia,Webster,3339,3276,95
+AL,West Virginia,Wetzel,6553,6892,95
+AL,West Virginia,Wirt,2544,2664,95
+AL,West Virginia,Wood,38077,38487,99
+AL,West Virginia,Wyoming,8320,8614,95
